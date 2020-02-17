@@ -1,0 +1,206 @@
+G:\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Properties.Resources.resources
+G:\JT\JT Suite\JT Suite\obj\x86\Release\JT Suite.csproj.GenerateResource.Cache
+G:\JT\JT Suite\JT Suite\bin\Release\JT Suite.exe
+G:\JT\JT Suite\JT Suite\bin\Release\JT Suite.pdb
+G:\JT\JT Suite\JT Suite\bin\Release\Emgu.CV.xml
+G:\JT\JT Suite\JT Suite\bin\Release\Emgu.CV.UI.xml
+G:\JT\JT Suite\JT Suite\bin\Release\Emgu.Util.xml
+G:\JT\JT Suite\JT Suite\obj\x86\Release\JT Suite.exe
+G:\JT\JT Suite\JT Suite\obj\x86\Release\JT Suite.pdb
+G:\JT\JT Suite\JT Suite\bin\Release\JT Suite.exe.config
+G:\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form1.resources
+G:\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form2.resources
+G:\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form3.resources
+G:\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form4.resources
+G:\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form5.resources
+G:\JT\JT Suite\JT Suite\obj\x86\Release\JT Suite.csprojResolveAssemblyReference.cache
+E:\JT\JT Suite\JT Suite\bin\Release\JT Suite.exe.config
+E:\JT\JT Suite\JT Suite\obj\x86\Release\JT Suite.exe
+E:\JT\JT Suite\JT Suite\obj\x86\Release\JT Suite.pdb
+E:\JT\JT Suite\JT Suite\bin\Release\JT Suite.exe
+E:\JT\JT Suite\JT Suite\bin\Release\JT Suite.pdb
+E:\JT\JT Suite\JT Suite\bin\Release\Emgu.CV.xml
+E:\JT\JT Suite\JT Suite\bin\Release\Emgu.CV.UI.xml
+E:\JT\JT Suite\JT Suite\bin\Release\Emgu.Util.xml
+E:\JT\JT Suite\JT Suite\obj\x86\Release\JT Suite.csprojResolveAssemblyReference.cache
+E:\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form1.resources
+E:\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form2.resources
+E:\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form3.resources
+E:\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form4.resources
+E:\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form5.resources
+E:\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Properties.Resources.resources
+E:\JT\JT Suite\JT Suite\obj\x86\Release\JT Suite.csproj.GenerateResource.Cache
+F:\JT\JT Suite\JT Suite\bin\Release\JT Suite.exe.config
+F:\JT\JT Suite\JT Suite\obj\x86\Release\JT Suite.exe
+F:\JT\JT Suite\JT Suite\obj\x86\Release\JT Suite.pdb
+F:\JT\JT Suite\JT Suite\bin\Release\JT Suite.exe
+F:\JT\JT Suite\JT Suite\bin\Release\JT Suite.pdb
+F:\JT\JT Suite\JT Suite\bin\Release\Emgu.CV.xml
+F:\JT\JT Suite\JT Suite\bin\Release\Emgu.CV.UI.xml
+F:\JT\JT Suite\JT Suite\bin\Release\Emgu.Util.xml
+F:\JT\JT Suite\JT Suite\obj\x86\Release\JT Suite.csprojResolveAssemblyReference.cache
+F:\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form1.resources
+F:\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form2.resources
+F:\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form3.resources
+F:\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form4.resources
+F:\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form5.resources
+F:\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Properties.Resources.resources
+F:\JT\JT Suite\JT Suite\obj\x86\Release\JT Suite.csproj.GenerateResource.Cache
+F:\My Flash\JT\JT Suite\JT Suite\bin\Release\JT Suite.exe.config
+F:\My Flash\JT\JT Suite\JT Suite\obj\x86\Release\JT Suite.exe
+F:\My Flash\JT\JT Suite\JT Suite\obj\x86\Release\JT Suite.pdb
+G:\My Flash\JT\JT Suite\JT Suite\bin\Release\JT Suite.exe.config
+G:\My Flash\JT\JT Suite\JT Suite\obj\x86\Release\JT Suite.exe
+G:\My Flash\JT\JT Suite\JT Suite\obj\x86\Release\JT Suite.pdb
+G:\My Flash\JT\JT Suite\JT Suite\bin\Release\JT Suite.exe
+G:\My Flash\JT\JT Suite\JT Suite\bin\Release\JT Suite.pdb
+G:\My Flash\JT\JT Suite\JT Suite\bin\Release\Emgu.CV.xml
+G:\My Flash\JT\JT Suite\JT Suite\bin\Release\Emgu.CV.UI.xml
+G:\My Flash\JT\JT Suite\JT Suite\bin\Release\Emgu.Util.xml
+G:\My Flash\JT\JT Suite\JT Suite\obj\x86\Release\JT Suite.csprojResolveAssemblyReference.cache
+G:\My Flash\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form1.resources
+G:\My Flash\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form2.resources
+G:\My Flash\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form3.resources
+G:\My Flash\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form4.resources
+G:\My Flash\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form5.resources
+G:\My Flash\JT\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Properties.Resources.resources
+G:\My Flash\JT\JT Suite\JT Suite\obj\x86\Release\JT Suite.csproj.GenerateResource.Cache
+G:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\JT Suite.exe.config
+G:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\JT Suite.exe
+G:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\JT Suite.pdb
+G:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Emgu.CV.xml
+G:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT Suite.csprojResolveAssemblyReference.cache
+G:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form1.resources
+G:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form2.resources
+G:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form3.resources
+G:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form4.resources
+G:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form5.resources
+G:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Properties.Resources.resources
+G:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT Suite.csproj.GenerateResource.Cache
+G:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT Suite.exe
+G:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT Suite.pdb
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\JTDB.mdf
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\JTDB_log.ldf
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\JT Suite.exe.config
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\JT Suite.exe
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\JT Suite.pdb
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\AForge.Controls.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\AForge.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\AForge.Genetic.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\AForge.Imaging.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\AForge.Math.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\AForge.Neuro.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\AForge.Video.DirectShow.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\AForge.Video.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\AForge.Vision.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Common.Logging.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\encog-core-cs.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Facebook.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Hammock.ClientProfile.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Microsoft.Owin.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Microsoft.Owin.Security.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Microsoft.Owin.Security.Facebook.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Microsoft.Owin.Security.Twitter.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Newtonsoft.Json.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Owin.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Spring.Rest.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Spring.Social.Core.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Spring.Social.Twitter.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\TweetSharp.dll
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\AForge.xml
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\AForge.Controls.xml
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\AForge.Genetic.xml
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\AForge.Imaging.xml
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\AForge.Math.xml
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\AForge.Neuro.xml
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\AForge.Video.xml
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\AForge.Video.DirectShow.xml
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\AForge.Vision.xml
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Facebook.xml
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Hammock.ClientProfile.pdb
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Microsoft.Owin.xml
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Microsoft.Owin.Security.xml
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Microsoft.Owin.Security.Facebook.xml
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Microsoft.Owin.Security.Twitter.xml
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Newtonsoft.Json.xml
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Spring.Rest.pdb
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Spring.Rest.xml
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Spring.Social.Core.pdb
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Spring.Social.Core.xml
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Spring.Social.Twitter.pdb
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\Spring.Social.Twitter.xml
+F:\My Flash\jt Projects\JT Suite\JT Suite\bin\Release\TweetSharp.pdb
+F:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT Suite.csprojResolveAssemblyReference.cache
+F:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form1.resources
+F:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form2.resources
+F:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form3.resources
+F:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form4.resources
+F:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form5.resources
+F:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form6.resources
+F:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Properties.Resources.resources
+F:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT Suite.csproj.GenerateResource.Cache
+F:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT Suite.exe
+F:\My Flash\jt Projects\JT Suite\JT Suite\obj\x86\Release\JT Suite.pdb
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\JT Suite.exe.config
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\obj\x86\Release\JT Suite.exe
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\obj\x86\Release\JT Suite.pdb
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\JTDB.mdf
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\JTDB_log.ldf
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\JT Suite.exe
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\JT Suite.pdb
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\AForge.Controls.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\AForge.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\AForge.Genetic.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\AForge.Imaging.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\AForge.Math.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\AForge.Neuro.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\AForge.Video.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\AForge.Vision.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Common.Logging.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\encog-core-cs.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Facebook.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Hammock.ClientProfile.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Microsoft.Owin.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Microsoft.Owin.Security.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Newtonsoft.Json.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Owin.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Spring.Rest.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Spring.Social.Core.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Spring.Social.Twitter.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\TweetSharp.dll
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\AForge.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\AForge.Controls.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\AForge.Genetic.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\AForge.Imaging.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\AForge.Math.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\AForge.Neuro.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\AForge.Video.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\AForge.Vision.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Emgu.CV.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Facebook.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Hammock.ClientProfile.pdb
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Microsoft.Owin.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Microsoft.Owin.Security.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Newtonsoft.Json.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Spring.Rest.pdb
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Spring.Rest.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Spring.Social.Core.pdb
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Spring.Social.Core.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Spring.Social.Twitter.pdb
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\Spring.Social.Twitter.xml
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\bin\Release\TweetSharp.pdb
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\obj\x86\Release\JT Suite.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form1.resources
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form2.resources
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form3.resources
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form4.resources
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form5.resources
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Form6.resources
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\obj\x86\Release\JT_Suite.Properties.Resources.resources
+C:\Users\Joseph Obagbemisoye\Google Drive\JT Suite\JT Suite\obj\x86\Release\JT Suite.csproj.GenerateResource.Cache

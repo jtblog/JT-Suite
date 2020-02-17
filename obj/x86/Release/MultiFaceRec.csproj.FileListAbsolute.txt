@@ -1,0 +1,10 @@
+G:\JT\JT Suite\JT Suite\bin\Release\MultiFaceRec.exe
+G:\JT\JT Suite\JT Suite\bin\Release\MultiFaceRec.pdb
+G:\JT\JT Suite\JT Suite\bin\Release\Emgu.CV.xml
+G:\JT\JT Suite\JT Suite\bin\Release\Emgu.CV.UI.xml
+G:\JT\JT Suite\JT Suite\bin\Release\Emgu.Util.xml
+G:\JT\JT Suite\JT Suite\obj\x86\Release\MultiFaceRec.FrmPrincipal.resources
+G:\JT\JT Suite\JT Suite\obj\x86\Release\MultiFaceRec.Properties.Resources.resources
+G:\JT\JT Suite\JT Suite\obj\x86\Release\MultiFaceRec.csproj.GenerateResource.Cache
+G:\JT\JT Suite\JT Suite\obj\x86\Release\MultiFaceRec.exe
+G:\JT\JT Suite\JT Suite\obj\x86\Release\MultiFaceRec.pdb
